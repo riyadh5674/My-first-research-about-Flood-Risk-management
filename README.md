@@ -30,6 +30,7 @@ The famous “Playground Series S4E5” synthetic flood dataset (1,117,957 train
 
 
 > **Key Insight:** On real physics, the physics-guided model doesn’t just match — it dominates.
+
 > **Key Insight:** But on synthetic data Physics-guided model doesn't perform well.
 
 ### The Golden Rules We Learned (and You Should Never Forget)
@@ -42,16 +43,6 @@ The famous “Playground Series S4E5” synthetic flood dataset (1,117,957 train
 5. LightGBM + correct constraints = unstoppable
 ```
 
-
-
-### Visual Proof – SHAP Summary (Physics Model)
-
-<p align="center">
-  <img src="C:\Users\user\Downloads\SHAP.png?raw=true" width="80%"/>
-  <br>
-  <i>Every red dot goes the right way. No exceptions. Pure physics obedience.</i>
-</p>
-
 ### For Researchers & Students
 
 This repo is the perfect template for:
@@ -62,8 +53,8 @@ This repo is the perfect template for:
 ### Citation (if you use this work)
 
 ```bibtex
-@misc{yourname2025floodphysics,
-  author = {Your Name},
+@misc{riyadh56742025floodphysics,
+  author = {MD RIYAD},
   title = {When Physics Guides ML: Achieving State-of-the-Art Flood Prediction with Monotonic Constraints},
   year = {2025},
   publisher = {GitHub},
@@ -72,14 +63,17 @@ This repo is the perfect template for:
 ```
 
 <p align="center">
-  <b>Made with curiosity, caffeine, and a stubborn belief that ML should respect reality.</b>
+  <b>
+    <span style="color:#FF6B6B">Made with</span> 
+    <span style="color:#4ECDC4">curiosity</span> 
+    <span style="color:#FFE66D">caffeine</span> 
+    <span style="color:#95E1D3">and a stubborn belief</span> 
+    <span style="color:#FF8B94">that ML should respect reality</span>
+  </b>
   <br><br>
-  <a href="https://github.com/your-username/flood-physics-ml">Star ★ if physics-guided ML makes you smile</a>
+  <b><span style="font-size:1.3em;">Star ★ if physics-guided ML makes you smile</span></b>
+  <br>
+  
 </p>
 ```
 
-Just replace `your-username` with your actual GitHub username, upload a cool banner image to `assets/`, and you’re done.
-
-This README is guaranteed to make anyone who reads it go “whoa, this person actually understands what they’re doing.”
-
-Want me to generate the actual HTML version with animated badges and dark mode? Just say the word.
